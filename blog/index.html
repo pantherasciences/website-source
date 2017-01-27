@@ -1,0 +1,22 @@
+---
+layout: default
+title: "Blog - Panthera Sciences"
+---
+
+    <!-- Main -->
+    <article id="main">
+        <header>
+          <h2>Blog</h2>
+        </header>
+        <section class="wrapper style5">
+          <div class="inner">
+            {% for post in site.posts %}
+            <h2>
+              <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
+            </h2>
+            <h5>By {{ post.author}} &middot; <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span></h5>
+            <hr>
+            {% endfor %}
+          </div>
+        </section>
+    </article>

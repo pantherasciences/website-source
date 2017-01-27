@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Some Meta Tags -->
+  <title>HAB-3: Technical Overview</title>
+  <meta name="description" content="HAB-3 represents every test, improvement, and lesson learned throughout the year in the Lovett Makers Club. In the Fall, we launched our first high altitude ...">
+  <meta name="theme-color" content="#1976D2">
+
+  <!-- Facebook Meta -->
+  <meta property=”og:title” content="HAB-3: Technical Overview"/>
+  <meta property=”og:type” content="blog"/>
+  <meta property=”og:image” content="http://pantherasciences.com/some-image.jpg"/> <!-- Make this a square Panthera Logo -->
+  <meta property=”og:url” content="http://pantherasciences.com/blog/balloons/hab-3-technical-overview"/>
+
+  <!-- Twitter Meta -->
+  <meta name=”twitter:card” content=”summary_large_image”>
+  <meta name="twitter:site" content="@pantherasci">
+  <meta name="twitter:creator" content="@pantherasci">
+  <meta name=”twitter:url” content="http://pantherasciences.com/blog/balloons/hab-3-technical-overview">
+  <meta name=”twitter:title” content="HAB-3: Technical Overview">
+  <meta name=”twitter:description” content="HAB-3 represents every test, improvement, and lesson learned throughout the year in the Lovett Makers Club. In the Fall, we launched our first high altitude ...">
+  <meta name=”twitter:image” content="http://pantherasciences.com/some-image.jpg"> <!-- Make this a square Panthera Logo -->
+
+  <!-- Stylesheets and Whatnot -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="http://pantherasciences.com/blog/balloons/hab-3-technical-overview">
+  <link rel="alternate" type="application/rss+xml" title="Panthera Sciences - XML" href="http://pantherasciences.com/feed/index.xml">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+</head>
+
+
+<body class="landing">
+    <div id="page-wrapper">
+        <header id="header">
+  <h1><a href="/">Panthera Sciences</a></h1>
+  <nav id="nav">
+    <ul>
+      <li class="special">
+        <a href="#menu" class="menuToggle"></a>
+        <div id="menu">
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="/projects">Projects</a></li>
+            <li><a href="https://feedburner.google.com/fb/a/mailverify?uri=pantherasciencesblog&loc=en_US">Subscribe</a></li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </nav>
+</header>
+ <article id="main">
+  <header>
+    <h2>HAB-3: Technical Overview</h2>
+    <p><em>By Nick Becker</em> &middot; May 22, 2015</p>
+  </header>
+  <section class="wrapper style5">
+    <div class="inner">
+
+      <p>HAB-3 represents every test, improvement, and lesson learned throughout the year in the Lovett Makers Club. In the Fall, we launched our first high altitude balloon with a very simple payload to challenge the idea that we can send something to the stratosphere and then retrieve it. Not only have we successfully recovered every payload to date, but each HAB has pushed the limits of what we thought we were capable of achieving. The following is a look into the process and design behind the HAB-3 payload, and most importantly, what we learned from it.</p>
+
+<div align="middle">
+  <iframe src="https://www.flickr.com/photos/pantherasciences/17925999086/in/datetaken-public/player/" width="700" height="540" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
+</div>
+
+<h3 id="structure">Structure</h3>
+
+<div align="middle">
+  <iframe src="https://www.flickr.com/photos/pantherasciences/17952728185/in/datetaken-public/player/" width="700" height="370" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
+</div>
+
+<p>The HAB-3 structure was built with the existing shell and payload bay from HAB-2. The outer shell is 3/4in schedule 20 PVC, and the payload bay is an equilateral triangle lunch box with a side length of 10.5 inches. Inside the lunch box, the electronics are insulated with polystyrene foam sheets. The foam is intended to be modular, thus allowing payload security and flexibility with the organization of the enclosed electronics.</p>
+
+<p>After retrieving HAB-2, we observed that the paracord and rope connections were the weakest points in the payload train. To further secure the connection to the payload bay, we designed and fabricated “paracord stoppers” on a Makerbot Replicator 2. These stoppers successfully prevented any tearing on
+the lunch box and secured the payload effectively.</p>
+
+<div align="middle">
+  <iframe src="https://c8.staticflickr.com/9/8758/16581439423_8d477441b5_k.jpg" width="700" height="540" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
+</div>
+
+<p>In future payloads, we plan to further protect electronics and radio by making better use of the modular polystyrene foam. We have learned that payload security is extremely important. Although often overshadowed by electronics, radio, and photography, the insulating and protecting foam is the only thing protecting our electronics from near space and impact after descent.</p>
+
+<p>A PDF of the above wireframe can be found <a href="https://drive.google.com/file/d/0B-Udy9R0pBXpcGNKZGdLeXN2Uk0/view?usp=sharing">here</a>.</p>
+
+<h3 id="data-collection">Data Collection</h3>
+
+<div align="middle">
+  <iframe src="https://www.flickr.com/photos/pantherasciences/17052610527/in/datetaken-public/player/" width="700" height="525" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
+</div>
+
+<p>The data collector for HAB-3 used an Arduino Uno Rev3 microcontroller to power 3 digital sensors. Almost the entirety of the datalogger was prototyped and coded by Ned Ellis and Davis Rackley in the Lovett Makers Club. Ellis and Rackley wrote a program to collect data from a barometer, thermometer, accelerometer, gyroscope, and humidity sensor and write it to an SD card. Details on the logger are below.</p>
+
+<ul>
+  <li><a href="http://www.adafruit.com/products/1141">Adafruit Data Logging Shield for Arduino</a></li>
+  <li><a href="https://www.parallax.com/product/29124">MS5607 Barometer/Altimeter Module</a></li>
+  <li><a href="http://www.adafruit.com/products/1714">LL3GD20H + LSM303 Adafruit Accelerometer/Gyroscope Breakout</a></li>
+  <li><a href="http://www.adafruit.com/product/1899">HTU210D-F Adafruit Temperature/Humidity Breakout</a></li>
+</ul>
+
+<div align="middle">
+  <iframe src="https://www.flickr.com/photos/pantherasciences/17952963361/in/datetaken-public/player/" width="700" height="525" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
+</div>
+
+<p>The three breakout boards were mounted to a 3D printed sensor plate. The mount was secured on the exterior of the lunch box, allowing the sensors to be exposed to the elements.</p>
+
+<p>The theme of payload security carries over to the area of data collection as well. While the datalogger was fully functional in testing, the power connection was not properly protected from the tight fit of the payload bay. In future payloads, we plan to protect the datalogger’s connections with custom casing and eventually custom PCBs to minimize loose solder connections.</p>
+
+<h3 id="communications">Communications</h3>
+
+<p>The Ham Radio APRS configuration in HAB-3 was nearly identical to that of HAB-2. It included a ArgentData OpenTracker USB which interfaced with a Baofeng UV-5R handheld radio.</p>
+
+<p>The OpenTracker was configured to collect and transmit latitude, longitude, altitude, and course data from a ADS-GM2 GPS receiver. The setup uses the Automatic Packet Reporting System, a digital communications information channel in amateur radio, to transmit data packets that included this information. After transmission, the data packets cross over from the local RF network to APRS-IS via gateways that can be found all over the country. After this point, the data is visible on sites such as aprs.fi and able to be followed by a chasing car or spectators easily.</p>
+
+<p>Unfortunately, the UV-5R keypad was not locked while preparing the payload prior to launch. At some point in the shuffle, the keypad was hit and the radio changed frequencies. In order for data to be collected and stored in the APRS Internet System, it must be transmitted on 144.39. No data from the ADS-GM2 GPS was collected during the HAB-3 flight. Moving forward, we plan to replace our existing configuration with an <a href="http://www.trackuino.org/">Arduino based alternative</a>. More to come on this in future updates for HAB-4.</p>
+
+<h3 id="photography">Photography</h3>
+
+<p>The outer PVC shell supported two GoPro Hero cameras to capture the entirety of the flight. Notice in the wireframe how the camera mounts are slightly off center to account for the weight displacement caused by the SPOT GPS.</p>
+
+<p>We decided to use a Hero 2 mounted at -45º and a Hero 4 Black positioned to be roughly horizontal.</p>
+
+<p>One of the biggest challenges while preparing HAB-3 was ensuring the cameras would capture the entire flight. To do this, we modified two Mini USB cables to fit under the insulated GoPro casing. A 12800mAh Anker Asto3 battery was stored within the insulated lunch box and provided constant power to the GoPros via these USB cables. The modified cables allowed the casing to maintain its seal.</p>
+
+<div align="middle">
+  <iframe src="https://www.flickr.com/photos/pantherasciences/17785846848/in/datetaken-public/player/" width="700" height="394" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
+
+  <iframe src="https://www.flickr.com/photos/pantherasciences/17785844068/in/datetaken-public/player/" width="700" height="394" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
+
+  <iframe src="https://www.flickr.com/photos/pantherasciences/17973720045/in/datetaken-public/player/" width="700" height="394" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
+
+  <iframe src="https://www.flickr.com/photos/pantherasciences/17351118524/in/datetaken-public/player/" width="700" height="394" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
+</div>
+
+
+    </div>
+  </section>
+</article>
+ <!-- Footer -->
+  <footer id="footer">
+    <ul class="icons">
+      <li><a href="mailto:team@pantherasciences.com" class="icon fa fa-envelope"><span class="label">Email</span></a></li>
+      <li><a href="https://flickr.com/pantherasciences/" class="icon fa fa-flickr"><span class="label">Flickr</span></a></li>
+      <li><a href="https://twitter.com/pantherasci" class="icon fa fa-twitter"><span class="label">Twitter</span></a></li>
+      <li><a href="https://github.com/pantherasciences" class="icon fa fa-github"><span class="label">GitHub</span></a></li>
+    </ul>
+    <ul class="copyright">
+      <li>&copy; Panthera Sciences 2013-2016</li>
+    </ul>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="http://pantherasciences.com/assets/js/jquery.min.js"></script>
+  <script src="http://pantherasciences.com/assets/js/jquery.scrollex.min.js"></script>
+  <script src="http://pantherasciences.com/assets/js/jquery.scrolly.min.js"></script>
+  <script src="http://pantherasciences.com/assets/js/skel.min.js"></script>
+  <script src="http://pantherasciences.com/assets/js/util.js"></script>
+  <script src="http://pantherasciences.com/assets/js/main.js"></script>
+
+    </div>
+</body>
+
+</html>

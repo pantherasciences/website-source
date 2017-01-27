@@ -1,0 +1,47 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site Settings
+title: Panthera Sciences
+email: team@pantherasciences.com
+author: Panthera Sciences
+description: The Panthera Sciences website - complete with a full project index and a blog so you can stay up to date.
+
+# URL Stuff
+url: "http://pantherasciences.com" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+permalink: blog/:categories/:title
+subscribe_rss: https://feedburner.google.com/fb/a/mailverify?uri=pantherasciencesblog&loc=en_US
+
+# Social Stuff
+flickr_username: pantherasciences
+twitter_username: pantherasci
+github_username: pantherasciences
+
+# Build settings
+markdown: kramdown
+
+###########################
+# Octopress Configuration #
+###########################
+
+# Default extension for new posts and pages
+post_ext: markdown
+page_ext: html
+
+# Default templates for posts and pages
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+# Change default template file (in _templates/)
+post_template: post
+page_template: page
+draft_template: draft

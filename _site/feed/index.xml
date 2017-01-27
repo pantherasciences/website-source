@@ -1,0 +1,507 @@
+---
+layout: null
+---<!--
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Panthera Sciences</title>
+		<description>The Panthera Sciences website - complete with a full project index and a blog so you can stay up to date.</description>
+		<link>http://pantherasciences.com</link>
+		<atom:link href="http://pantherasciences.com/feed/index.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Fuel, Gears, and Lots of Velcro</title>
+				
+				
+					<description>Roarbotics is off to an excellent start this year. Following a few setbacks due to the snow ice day on kickoff, build season is in full swing over in the Makerspace. This is the inaugural FIRST Robotics Competition for the new Lovett Makerspace. Gone are the days when scrap metal and CIM motors dominated the entire work table in Room CC305. Lovett Robotics is now treated to an entire section of the room–and, so far, our turnout has justified it.
+
+</description>
+				
+				<pubDate>Sun, 22 Jan 2017 08:44:13 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/miscellaneous/spring-frc-update</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/spring-frc-update</guid>
+			</item>
+		
+			<item>
+				<title>Fall 2016 Approach</title>
+				
+				
+					<description>As my graduation looms in the increasingly near future, I have begun to prioritize the preparation of the Makers Club for the next phase of its existence. As such, Anthony and I have begun to shift the leadership of the organization into the hands of the younger members, particularly our Sophomores and a few new Freshmen. We have begun to contribute primarily as overseers of their projects; as we let them take the stage and establish the next face of the club, we are trying to serve as mentors and really let them take control.
+
+</description>
+				
+				<pubDate>Fri, 16 Sep 2016 00:24:08 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/miscellaneous/fall-2016-approach</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/fall-2016-approach</guid>
+			</item>
+		
+			<item>
+				<title>Ch-ch-ch-ch-Changes</title>
+				
+				
+					<description>With our absolutely breathtaking new Makerspace, complete with laser cutter, new 3D printers, an abundance of new soldering irons and materials, as well as our fantastic new CNC router, it is the perfect time to turn our focus from the projects we’ve been conducting over the past few years to the coming year’s new endeavors.
+
+</description>
+				
+				<pubDate>Tue, 02 Aug 2016 00:21:41 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/miscellaneous/ch-ch-ch-ch-changes</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/ch-ch-ch-ch-changes</guid>
+			</item>
+		
+			<item>
+				<title>HAB-5 Results and a Reflection on the HAB Series</title>
+				
+				
+					<description>With the launch of HAB-5 we had our first major setback as a club. After our initial ascent, we began encountering issues with our infamously-inconsistent APRS, and it pooped out completely soon after. Fortunately, the SPOT did function correctly, but it seems as though upon landing the balloon was overturned or some object covered the SPOT to prevent its signal from being communicated with satellites that we rely on to track it.
+
+</description>
+				
+				<pubDate>Thu, 16 Jun 2016 00:13:26 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/hab-5-results-and-a-reflection-on-the-hab-series</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-5-results-and-a-reflection-on-the-hab-series</guid>
+			</item>
+		
+			<item>
+				<title>Middle School Intramurals</title>
+				
+				
+					<description>One of our long time goals in the continued shift towards community-oriented projects is to somehow get involved with the Middle and Lower Schools here at Lovett. Unlike sports, speech and debate, and other extracurriculars, Makers Club and Robotics don’t have to be completely separate from their Middle and Lower School counterparts. Down the road, we’re aiming for a community where any student interested in making stuff, regardless of what age, is comfortable with seeking out any tools and/or mentoring they need.
+
+</description>
+				
+				<pubDate>Mon, 30 May 2016 18:00:38 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/miscellaneous/middle-school-intramurals</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/middle-school-intramurals</guid>
+			</item>
+		
+			<item>
+				<title>HAB-5 Check-in and Details</title>
+				
+				
+					<description>As we’ve kicked into full-swing with our work on the conclusion in our HAB series, we’ve seen participation and interest among underclassmen swell to exciting new heights. Dividing the tasks into sub-groups based upon skillset and interests, our current layout is as follows:
+
+</description>
+				
+				<pubDate>Fri, 06 May 2016 00:10:10 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/hab-5-check-in-and-details</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-5-check-in-and-details</guid>
+			</item>
+		
+			<item>
+				<title>GSBC 2016: HAB-5 Introduction and Launch Plan</title>
+				
+				
+					<description>We are excited to launch our 5th, and potentially final, high-altitude balloon in the coming weeks, as an entry to the 2016 Global Space Balloon Challenge. Unlike previous iterations of our HAB series, it will feature our APRS configuration as our primary source of tracking, with the SPOT serving as a backup. Furthermore, the payload will see a complete redesign as we create our lightest balloon yet in order to optimize altitude. Our goals and initial ideas, drafted in our last meeting, are as follow:
+
+</description>
+				
+				<pubDate>Tue, 19 Apr 2016 00:05:27 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/gsbc-2016-hab-5-introduction-and-launch-plan</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/gsbc-2016-hab-5-introduction-and-launch-plan</guid>
+			</item>
+		
+			<item>
+				<title>An Exciting New Era: Makerspace Development</title>
+				
+				
+					<description>As we approach the conclusion of the third year of the Makers Club, we are incredibly grateful for the work of Mrs. Deisley and thrilled to announce that this coming summer we will be moving into a drastically improved space. Inhabiting an old, unused science classroom for the past 3 years, it will be a revolutionary change for the way that the club functions and hopefully attract new members. We will not only be gaining a ton more space to work, but also get to customize the space to our needs and have a lot of input as to how it looks and what is inside.
+
+</description>
+				
+				<pubDate>Mon, 15 Feb 2016 22:56:54 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/miscellaneous/an-exciting-new-era-makerspace-development</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/an-exciting-new-era-makerspace-development</guid>
+			</item>
+		
+			<item>
+				<title>Community Outreach and Workshops</title>
+				
+				
+					<description>This semester we started a project in a completely different direction than what we’ve taken before. Over the course of the past few years, the Makers Club and Robotics team at Lovett have been extremely successful in garnering interest in STEM. We have members who are athletes, actors, musicians, etc. who’ve found some sort of interest in engineering even if they only have time to contribute a little each week. At the same time, we have more and more people drop by just to see what’s going on. We get to hear what a lot of people think about us, and lately we’ve been hearing some patterns.
+
+</description>
+				
+				<pubDate>Thu, 11 Feb 2016 20:45:57 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/miscellaneous/community-outreach-and-workshops</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/community-outreach-and-workshops</guid>
+			</item>
+		
+			<item>
+				<title>Spring 2016 Roadmap</title>
+				
+				
+					<description>Starting off the school year with the launch of LunarHab helped carry over last year’s enthusiasm for STEM projects into the new wave of underclassmen. The Makers Club has grown in size and scope, as it now includes members from each grade level in the Upper School. Seeing this new popularity, it is clear that thorough planning and leadership is integral to the future success of the club and effectiveness of project-centered STEM education.
+
+</description>
+				
+				<pubDate>Mon, 07 Dec 2015 20:45:43 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/miscellaneous/spring-2016-roadmap</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/spring-2016-roadmap</guid>
+			</item>
+		
+			<item>
+				<title>LunarHAB: Launch and Recovery</title>
+				
+				
+					<description>Sunday, September 27th was the launch date for the Makers Club’s fourth high altitude balloon launch. This project, dubbed LunarHAB, was designed to capture footage of the total lunar eclipse.
+
+</description>
+				
+				<pubDate>Fri, 04 Dec 2015 20:45:19 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/lunarhab-launch-and-recovery</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/lunarhab-launch-and-recovery</guid>
+			</item>
+		
+			<item>
+				<title>LunarHAB Description and Planning</title>
+				
+				
+					<description>For the sake of saving time and resources in addition to the fact that we were very busy over the summer, we decided to drop our plans for the HAB-4 launch plans and instead invest our time preparing for LunarHAB, which we’ll conduct on September 27th (and recover the morning of September 28th). While we realize that this means we won’t have a practice launch, we believe that devoting more time to LunarHAB will make for better results. From here on out, HAB-4 means the same thing as LunarHAB, and HAB-5 will be a separate project later this year.
+
+</description>
+				
+				<pubDate>Tue, 25 Aug 2015 21:45:02 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/lunarhab-description-and-planning</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/lunarhab-description-and-planning</guid>
+			</item>
+		
+			<item>
+				<title>GSBC 2015 Winners - Best Video</title>
+				
+				
+					<description>We are proud to announce that the Lovett Makers Club has won the best video category in the Global Space Balloon Challenge for 2015! Over 300 teams registered from 48 countries, and we are very proud of our accomplishment. As you know from our previous blog posts, this balloon launch was a huge success, and we were able to make an incredible video. In case you missed our previous blog posts, here is the award winning video for your viewing pleasure.
+
+</description>
+				
+				<pubDate>Tue, 28 Jul 2015 21:44:29 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/gsbc-2015-winners-best-video</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/gsbc-2015-winners-best-video</guid>
+			</item>
+		
+			<item>
+				<title>HAB-4: A Stepping Stone to LunarHAB</title>
+				
+				
+					<description>After HAB-1, which followed on the heels of a lunar eclipse in October, Josh proposed that we should launch a balloon during one of these extraordinary events. It turns out that the next lunar eclipse will be occurring on September 28th of this year. As a way to prepare for this huge project (HAB-5), we’re dedicating our next balloon, HAB-4, to testing out a payload similar to that of which we will fly during the eclipse. In many ways, HAB-4 will be the most important balloon we will launch in 2015. The summer provides incredible opportunity to develop our skills in electronics and photography, and also plenty of time to build and fine-tune a payload. Currently, we have more improvements planned for HAB-4 than any other balloon before it.
+
+</description>
+				
+				<pubDate>Wed, 27 May 2015 21:44:11 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/hab-4-a-stepping-stone-to-lunarhab</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-4-a-stepping-stone-to-lunarhab</guid>
+			</item>
+		
+			<item>
+				<title>HAB-3 Global Space Balloon Challenge Video Entry</title>
+				
+				
+					<description>On May 2nd as we launched our 3rd high altitude balloon as our entry in the Global Space Balloon Challenge, James Kolsby, the founder of the Makers Club, captured video, and he has since edited it and created this video. We used a Panasonic GH4, GoPro Hero 4 Black, Hero 2, and DJI Phantom 2 Vision+ quadcopter for the footage included in the video.
+
+</description>
+				
+				<pubDate>Sun, 24 May 2015 21:43:37 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/hab-3-global-space-balloon-challenge-video-entry</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-3-global-space-balloon-challenge-video-entry</guid>
+			</item>
+		
+			<item>
+				<title>HAB-3: Technical Overview</title>
+				
+				
+					<description>HAB-3 represents every test, improvement, and lesson learned throughout the year in the Lovett Makers Club. In the Fall, we launched our first high altitude balloon with a very simple payload to challenge the idea that we can send something to the stratosphere and then retrieve it. Not only have we successfully recovered every payload to date, but each HAB has pushed the limits of what we thought we were capable of achieving. The following is a look into the process and design behind the HAB-3 payload, and most importantly, what we learned from it.
+
+</description>
+				
+				<pubDate>Fri, 22 May 2015 21:43:19 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/hab-3-technical-overview</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-3-technical-overview</guid>
+			</item>
+		
+			<item>
+				<title>HAB-3: Launch and Recovery</title>
+				
+				
+					<description>On May 2nd, we successfully launched and recovered our third high-altitude balloon, which was our entry for the Global Space Balloon Challenge.
+
+</description>
+				
+				<pubDate>Thu, 21 May 2015 21:42:39 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/hab-3-launch-and-recovery</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-3-launch-and-recovery</guid>
+			</item>
+		
+			<item>
+				<title>A Short Film on HAB-2</title>
+				
+				
+					<description>On Sunday, March 15 Panthera Sciences and the Lovett Makers Club launched our second high altitude balloon. Cole Johnson was kind enough to film and produce a video covering the launch and flight of HAB-2.
+
+</description>
+				
+				<pubDate>Tue, 19 May 2015 21:42:23 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/a-short-film-on-hab-2</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/a-short-film-on-hab-2</guid>
+			</item>
+		
+			<item>
+				<title>HAB-3: Final Touches and Launch Plans</title>
+				
+				
+					<description>We’ve finalized our plans to launch at Lake Allatoona this coming Saturday. Fortunately, Bo knows the director of Camp High Harbor, which actually has a campus directly across from the boat ramp that we’re using. They’ve agreed to let us borrow a few of their canoes for the morning, so Bo and I will be in his boat (essentially a canoe with a motor) and we can tug a few other boats with photographers to the area where we’ll launch. We will inflate the balloon in a clear area by the boat ramp to avoid having to do this while on the water, and then take the inflated balloon out onto the lake.
+
+</description>
+				
+				<pubDate>Tue, 28 Apr 2015 21:42:05 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/hab-3-final-touches-and-launch-plans</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-3-final-touches-and-launch-plans</guid>
+			</item>
+		
+			<item>
+				<title>HAB-3: Structural and Electronic Progress</title>
+				
+				
+					<description>With two weeks to go until HAB-3 ascends to near-space, we have made good headway towards being ready for our May 2nd launch (in case you’re a reader outside of our email loop—we made the decision to postpone the launch from April 25 due to a thunderstorm forecast throughout the entire morning and afternoon). These past weeks we’ve made decisions regarding what changes need to be made before launch and have started work on finalizing HAB-3 for launch day.
+
+</description>
+				
+				<pubDate>Sat, 18 Apr 2015 21:41:29 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/hab-3-structural-and-electronic-progress</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-3-structural-and-electronic-progress</guid>
+			</item>
+		
+			<item>
+				<title>HAB-3: Improvements From HAB-2 and Goals for GSBC</title>
+				
+				
+					<description>Our next high altitude balloon, HAB-3, will be launched as part of the 2015 Global Space Balloon Challenge later this month. While HAB-2 was in many ways a success, there are several areas we plan to improve for this next balloon. To accomplish these tasks in our short three-week preparation period, we have split into groups to increase the efficiency of our work flow and accomplish everything we need to before launch day. Current members of the Makers Club who are participating in GSBC are split into the following groups: launch planning, data collection, structure, power system, or telecommunications.
+
+</description>
+				
+				<pubDate>Thu, 09 Apr 2015 21:41:06 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/hab-3-improvements-from-hab-2-and-goals-for-gsbc</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-3-improvements-from-hab-2-and-goals-for-gsbc</guid>
+			</item>
+		
+			<item>
+				<title>TARC 2015: Summary and Qualification Flights</title>
+				
+				
+					<description>March 29th was quite the day for members of the Makers Club. We had planned to get qualification flights submitted a week earlier, however, the weather was not on our side. With a school trip and robotics competition all in the same weekend, we were very lucky to get our qualification flights in on time. Before recapitulating the qualification launch, I want to summarize the the decision making behind our TARC design and progress this season.
+
+</description>
+				
+				<pubDate>Wed, 08 Apr 2015 21:40:43 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/rockets/tarc-2015-summary-and-qualification-flights</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/rockets/tarc-2015-summary-and-qualification-flights</guid>
+			</item>
+		
+			<item>
+				<title>HAB-2: Chase and Recovery</title>
+				
+				
+					<description>Before the launch of HAB-2, we decided the team that would chase and recover the balloon. The team consisted of Josh Eiland, Ethan Goldfarb, Anthony Romaniello, Davis Rackley, and Bo Sinkler along with our beloved faculty sponsor, Mr. Karl Hwang, and a very enthusiastic and helpful parent, Mr. Gene Rackley. The chase team left the launch site shortly after launching the balloon (as well as performing two test launches for our TARC rocket) and headed on our way in the direction we knew the balloon was traveling - eastward towards the Georgia-South Carolina line. Similar to our last chase, we were primarily tracking the balloon via the onboard SPOT GPS. We also monitored HAB-2’s APRS packets, which were sent out more frequently.
+
+</description>
+				
+				<pubDate>Tue, 07 Apr 2015 21:40:19 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/hab-2-chase-and-recovery</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-2-chase-and-recovery</guid>
+			</item>
+		
+			<item>
+				<title>HAB-2: The Successful Launch of Our Second High Altitude Balloon</title>
+				
+				
+					<description>On Sunday, March 15 at approximately 7:52am, we launched our second high-altitude balloon project: HAB-2. The balloon reached an altitude of over 115,000 feet, and the flight was around 2 hours and 45 minutes in duration.
+
+</description>
+				
+				<pubDate>Sun, 05 Apr 2015 21:39:21 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/hab-2-the-successful-launch-of-our-second-high-altitude-balloon</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-2-the-successful-launch-of-our-second-high-altitude-balloon</guid>
+			</item>
+		
+			<item>
+				<title>TARC 2015: Launch Test 2 Recap</title>
+				
+				
+					<description>This past Sunday the Lovett Makers Club held it’s largest event to date. The morning included the launch of our second balloon in preparation for the Global Space Balloon Challenge and two rocket launches in preparation for TARC.
+
+</description>
+				
+				<pubDate>Mon, 16 Mar 2015 21:38:46 -0400</pubDate>
+				<link>http://pantherasciences.com/blog/rockets/tarc-2015-launch-test-2-recap</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/rockets/tarc-2015-launch-test-2-recap</guid>
+			</item>
+		
+			<item>
+				<title>TARC 2015: Launch Test 1 Recap</title>
+				
+				
+					<description>Last saturday the Lovett Makers Club successfully launched and recovered our first prototype rocket designed for the 2015 Team America Rocketry Challenge. As a whole, the launch was extremely successful. The rocket reached an altitude of 585 feet and was in flight for approximately 40 seconds. Furthermore, the rocket was recovered with no damage - including the egg concealed in its payload!
+
+</description>
+				
+				<pubDate>Thu, 05 Mar 2015 20:38:17 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/rockets/tarc-2015-launch-test-1-recap</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/rockets/tarc-2015-launch-test-1-recap</guid>
+			</item>
+		
+			<item>
+				<title>TARC 2015: There&#39;s a Solution to Every Problem</title>
+				
+				
+					<description>This past week the Makers Club worked diligently to complete our first prototype rocket. However, with it being the first rocket we’ve ever completed, a few challenges were bound to arise.
+
+</description>
+				
+				<pubDate>Sun, 22 Feb 2015 20:37:48 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/rockets/tarc-2015-theres-a-solution-to-every-problem</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/rockets/tarc-2015-theres-a-solution-to-every-problem</guid>
+			</item>
+		
+			<item>
+				<title>Spring 2015 Outlook</title>
+				
+				
+					<description>As our TARC rocket and HAB-2 projects are in full swing, we thought it would be suitable to publish a glimpse into what our spring schedule looks like. The following calendar gives tentative dates for major events, as well as an overview of the projects we hope to initiate and complete this upcoming year.
+
+</description>
+				
+				<pubDate>Tue, 17 Feb 2015 20:37:22 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/miscellaneous/spring-2015-outlook</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/spring-2015-outlook</guid>
+			</item>
+		
+			<item>
+				<title>HAB-2: Early Stages and Progress</title>
+				
+				
+					<description>Ever since our successful launch of the HAB-1 project late in November, we’ve been working to target specific improvements and areas of focus for our second high-altitude balloon, the HAB-2, which we plan to launch in late February or early March.
+
+</description>
+				
+				<pubDate>Thu, 12 Feb 2015 20:37:08 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/hab-2-early-stages-and-progress</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-2-early-stages-and-progress</guid>
+			</item>
+		
+			<item>
+				<title>TARC 2015: Preliminary Design</title>
+				
+				
+					<description>For the past two weeks the Lovett Makers Club in collaboration with Panthera Sciences has been designing their very first rocket to compete in the Team America Rocketry challenge.
+
+</description>
+				
+				<pubDate>Sun, 08 Feb 2015 20:36:51 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/rockets/tarc-2015-preliminary-design</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/rockets/tarc-2015-preliminary-design</guid>
+			</item>
+		
+			<item>
+				<title>Panthera Sciences Will Be Competing in the 2015 Global Space Balloon Challenge</title>
+				
+				
+					<description>We are proud to announce that we will be leading the Lovett Makers Club team in the 2015 Global Space Balloon Challenge! Due to the success of HAB-1, we are now ready to begin preparing for our next high altitude balloon. We are currently in the preliminary design phase and are discussing potential goals of the project with the Makers Club.
+
+</description>
+				
+				<pubDate>Mon, 08 Dec 2014 20:36:24 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/panthera-sciences-will-be-competing-in-the-2015-global-space-balloon-challenge</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/panthera-sciences-will-be-competing-in-the-2015-global-space-balloon-challenge</guid>
+			</item>
+		
+			<item>
+				<title>HAB-1: Chase and Recovery</title>
+				
+				
+					<description>Immediately after the launch, we began our drive back to Atlanta. The whole team met at OK Cafe and enjoyed a celebratory breakfast before beginning the balloon chase. After breakfast, we departed for the projected landing site near Greenville, SC. Josh, Bo, Nick, Davis, Mr. Hwang, and myself set off chasing the balloon.
+
+</description>
+				
+				<pubDate>Mon, 08 Dec 2014 20:35:51 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/hab-1-chase-and-recovery</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-1-chase-and-recovery</guid>
+			</item>
+		
+			<item>
+				<title>HAB-1: Launch</title>
+				
+				
+					<description>In preparing for launch day, we had a lot on the schedule. In order to make the balloon launch-ready, we needed to essentially prep everything except the launch site itself. So we put a small piece of PVC in the balloon’s neck, and zip-tied the tops of rope knots down on top of it. This enabled us to be able to attach safety lines to the balloon during inflation and to attach the payload train to the balloon’s neck before inflation began. We then attached lines from the payload to both loops, so that if one somehow came undone the other would salvage the connection.
+
+</description>
+				
+				<pubDate>Sat, 06 Dec 2014 20:35:38 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/hab-1-launch</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-1-launch</guid>
+			</item>
+		
+			<item>
+				<title>HAB-1: Research, Development, and Construction</title>
+				
+				
+					<description>Our high-altitude balloon project, abbreviated HAB-1, was launched from Sam Smith Park in Cartersville, Georgia on Saturday November 22nd. It landed in Candor, North Carolina approximately 6.5 hours later. A write-up of the full project process is included below.
+
+</description>
+				
+				<pubDate>Sat, 06 Dec 2014 20:35:19 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/hab-1-research-development-and-construction</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/hab-1-research-development-and-construction</guid>
+			</item>
+		
+			<item>
+				<title>Successful Launch and Retrieval of Our First High Altitude Balloon</title>
+				
+				
+					<description>Last Saturday, November 22 2014, Panthera Sciences in collaboration with the Lovett Makers Club launched our very first High Altitude Balloon.
+
+</description>
+				
+				<pubDate>Fri, 28 Nov 2014 20:34:41 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/balloons/successful-launch-and-retrieval-of-our-first-high-altitude-balloon</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/balloons/successful-launch-and-retrieval-of-our-first-high-altitude-balloon</guid>
+			</item>
+		
+			<item>
+				<title>Introducing Project X-HC1: The Newest Addition to Panthera Sciences Experimental Operations</title>
+				
+				
+					<description>This past weekend we completed the first project in the Experimental Operations division of Panthera Sciences: the X-HC1 Hovercraft. The vehicle is a basic hovercraft design that consists of a wooden platform and a plastic skirt. The vehicle aims to have a sleek design that allows it to be effectively filled using a gas-powered leaf blower.
+
+</description>
+				
+				<pubDate>Sun, 02 Feb 2014 20:33:32 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/weekend%20builds/introducing-project-x-hc1-the-newest-addition-to-panthera-sciences-experimental-operations</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/weekend%20builds/introducing-project-x-hc1-the-newest-addition-to-panthera-sciences-experimental-operations</guid>
+			</item>
+		
+			<item>
+				<title>Project Romulus 2014 Update</title>
+				
+				
+					<description>As we are restructuring our website, we decided to transfer several project pages to blog format. Here is the description of HPR-1 copied from its previous project page format:
+
+</description>
+				
+				<pubDate>Thu, 23 Jan 2014 20:32:52 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/rockets/project-romulus-2014-update</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/rockets/project-romulus-2014-update</guid>
+			</item>
+		
+			<item>
+				<title>Project Remus: A Goal for the Long Term</title>
+				
+				
+					<description>Hello Everyone - Welcome to Panthera Sciences. Whether you heard about us from The Lovett School, or found us some other way, we appreciate your visit.
+
+</description>
+				
+				<pubDate>Tue, 21 Jan 2014 20:32:05 -0500</pubDate>
+				<link>http://pantherasciences.com/blog/miscellaneous/project-remus-a-goal-for-the-long-term</link>
+				<guid isPermaLink="true">http://pantherasciences.com/blog/miscellaneous/project-remus-a-goal-for-the-long-term</guid>
+			</item>
+		
+	</channel>
+</rss>-->

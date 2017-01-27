@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<article id="main">
+  <header>
+    <h2>{{ page.title }}</h2>
+    <p><em>By {{ page.author}}</em> &middot; {{ page.date | date: "%B %-d, %Y" }}</p>
+  </header>
+  <section class="wrapper style5">
+    <div class="inner">
+
+      {{ content }}
+
+    </div>
+  </section>
+</article>
